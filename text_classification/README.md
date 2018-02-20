@@ -1,22 +1,19 @@
 
-*NAME: Sai Pavan Kumar Unnam #### UNI: su2216*
-
-*NAME: Sithal Nimmagadda ######## UNI: sn2738*
 
 **Text Classification**
 
-#unigram.py
+*unigram.py*
 
 Classification of text data using bag of words model with term frequency as the feature value.
 
-#bigram.py
+*bigram.py*
 
 Classification of text data using bigrams with term frequency as the feature value.
 
-#tfidf.py
+*tfidf.py*
 
 Classification of text data using bag of words model with TFIDF score as the feature value.
 
-#unigram_stopwords.py
+*unigram_stopwords.py*
 
-Classification of text data using bag of words model with term frequency as the fature value and removing the stop words from the feature set and excluding features which are in lees than 10 documents.
+Classification of text data using bag of words model with term frequency as the fature value and removing the stop words from the feature set and excluding features which are in less than 10 documents.
