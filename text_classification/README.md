@@ -1,5 +1,6 @@
 
-*NAME: SAI PAVAN KUMAR UNNAM #### UNI: su2216*
+*NAME: Sai Pavan Kumar Unnam #### UNI: su2216*
+*NAME: Sithal Nimmagadda ######## UNI: sn2738*
 
 **Text Classification**
 
